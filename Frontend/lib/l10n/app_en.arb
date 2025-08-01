@@ -1,0 +1,20 @@
+{
+  "@@locale": "en",
+  "selectLanguage": "Select a language to continue",
+  "selectOneBelow": "Select one from below",
+  "confirm": "Confirm",
+  "english": "English",
+  "hindi": "Hindi",
+  "welcome": "Welcome to",
+  "welcome2": "CakeWake Delivery!",
+  "subtitle": "Start Earning in 10 mins",
+  "help": "Help",
+  "heading": "COMPLETE IN 3 STEPS",
+  "step1": "Work Setup",
+  "step1Subtitle": "City & Vehicle",
+  "step2": "Profile Setup",
+  "step2Subtitle": "Name & Contact info",
+  "step3": "Documents",
+  "step3Subtitle": "ID & Verification",
+  "continueBtn": "Continue"
+}
